@@ -1,3 +1,3 @@
-# <h2> up206a-wendy: Data Science Project 
+# up206a-wendy: Data Science Project 
 
   
