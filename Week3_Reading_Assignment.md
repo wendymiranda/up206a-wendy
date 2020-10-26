@@ -1,4 +1,4 @@
-#Week 3 Assignment 
+# Week 3 Assignment 
 
 This is my first time ever learning about GIS or just spatial data science over all, so reading these two articles a bit challenging, but overall it was great to 
 learn about. I find that OSMNx can be a very useful tool for street design and also to just look even closely at certain areas rather than just a census tract, 
